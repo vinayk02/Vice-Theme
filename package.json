@@ -1,0 +1,31 @@
+{
+    "name": "vice",
+    "displayName": "Vice",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "VinayKumar",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Vice",
+        "theme",
+        "dark",
+        "Miami",
+        "Chill",
+        "80s",
+        "Miami"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vice",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vice-color-theme.json"
+            }
+        ]
+    }
+}
