@@ -5,7 +5,7 @@
 ![Capture](https://user-images.githubusercontent.com/80611746/111890004-f6f3e200-89bb-11eb-9e5a-d94ef08cb2de.PNG)
 ## Installing
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
-1. Search for `Vice City`
+1. Search for `Vice`
 1. Click **Install**
 1. Click **Reload**
 1. Open the **Command Palette**
