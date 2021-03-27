@@ -1,9 +1,12 @@
 {
     "name": "vice",
     "displayName": "Vice",
-    "description": "",
+    "description": "A Vice inspired theme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "VinayKumar",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -17,8 +20,19 @@
         "Miami",
         "Chill",
         "80s",
-        "Miami"
+        "Miami",
+        "Retro",
+        "Dark Theme",
+        "Themes"
     ],
+    "galleryBanner": {
+        "color": "#1C1D2A",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vinayk02/Vice-Theme"
+    },
     "contributes": {
         "themes": [
             {
